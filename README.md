@@ -2,10 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Snake_Eat_Grid)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<div align="center" dir="auto">
+  <a href="" rel="nofollow">
+  <img src="https://user-images.githubusercontent.com/58667227/229009150-66bd68d8-e0c7-49ab-afb0-606d923c3e83.svg" alt="snake" style="max-width: 100%;"></a>
 </div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=00F737&center=true&vCenter=true&width=1000&lines=Social_Accounts)](https://git.io/typing-svg)
